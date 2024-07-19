@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Literature">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAMQQAAAJEAAAAAQQIlgAREBIAAAAgAAAAQAQAA=</HashCode>
+      <FileName>Literature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScientificTechnicalLiterature">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAEAAAAAAAClAAAAEAAAAAEAAAAA=</HashCode>
+      <FileName>ScientificTechnical.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Periodicals">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAhAEAAAAAAAAAQAAUAAQ=</HashCode>
+      <FileName>Periodical.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReferenceBooks">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAICAAAAAAAAACIAEAAIAAAAgAgCACAAA=</HashCode>
+      <FileName>Reference.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiteratureContainer">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAQAEAAAAAAAAEAAAAAAAABAAACAAA=</HashCode>
+      <FileName>LiteratureContainerBook.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
